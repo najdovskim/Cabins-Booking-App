@@ -29,12 +29,6 @@ Here are some screenshots of the application:
 - **Dashboard**: An overview of user activity and cabin statistics.
 - **Dark Mode**: UI screenshot in dark mode for better visibility in low-light environments.
 
-![localhost_5173_account](https://github.com/user-attachments/assets/24b1f51b-b2b4-45f7-8c93-4ca8ab27acbb)
-![localhost_5173_bookings (3)](https://github.com/user-attachments/assets/f3143aca-1c6a-4739-b6f6-c79d9b51790e)
-![localhost_5173_bookings (2)](https://github.com/user-attachments/assets/6b933fcf-36ab-438b-b3ef-16fe021be3a1)
-![localhost_5173_bookings (1)](https://github.com/user-attachments/assets/1c21cc3b-4e55-44e1-bd5b-eed5715d8673)
-![localhost_5173_cabins](https://github.com/user-attachments/assets/7b74991a-d44d-4be3-a2c8-0b9261552b59)
-![localhost_5173_dashboard (1)](https://github.com/user-attachments/assets/68644dc8-3156-4cdb-9ff6-9b2688ed3df7)
 
 
 
@@ -68,6 +62,9 @@ Follow these steps to get the project up and running:
 
 5. Open your browser and go to `http://localhost:5173` to see the app in action.
 
-```
-
-This version reflects **Styled Components** as your styling solution and how you're using it for theming (light/dark). Let me know if you'd like to add or modify anything further!
+![localhost_5173_account](https://github.com/user-attachments/assets/24b1f51b-b2b4-45f7-8c93-4ca8ab27acbb)
+![localhost_5173_bookings (3)](https://github.com/user-attachments/assets/f3143aca-1c6a-4739-b6f6-c79d9b51790e)
+![localhost_5173_bookings (2)](https://github.com/user-attachments/assets/6b933fcf-36ab-438b-b3ef-16fe021be3a1)
+![localhost_5173_bookings (1)](https://github.com/user-attachments/assets/1c21cc3b-4e55-44e1-bd5b-eed5715d8673)
+![localhost_5173_cabins](https://github.com/user-attachments/assets/7b74991a-d44d-4be3-a2c8-0b9261552b59)
+![localhost_5173_dashboard (1)](https://github.com/user-attachments/assets/68644dc8-3156-4cdb-9ff6-9b2688ed3df7)
